@@ -1,2 +1,2 @@
 # ohmyzsh
-git clone https://github.com/zonaredXXII/ohmyzsh.git
+git clone https://github.com/zonaredXXII/ThemaZSH.git
